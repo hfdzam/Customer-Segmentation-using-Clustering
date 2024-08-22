@@ -10,4 +10,6 @@ In this notebook, you will:
 3. Analyze and interpret the resulting customer segments.
 4. Visualize the segments to gain insights into customer behavior.
 
-For details and to view the notebook, check out [this Jupyter Notebook](P1G6_Set_1_hafidz_masruri.ipynb), for inference [this Jupyter Notebook](P1G6_Set_1_hafidz_masruri_inference.ipynb)
+For details and to view the notebook, check out [this Jupyter Notebook](P1G6_Set_1_hafidz_masruri.ipynb)
+
+For inference, refer to [this Jupyter Notebook](P1G6_Set_1_hafidz_masruri_inference.ipynb)
